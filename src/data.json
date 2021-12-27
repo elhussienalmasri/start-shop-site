@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "_id": "shirt1",
+      "image": "/images/shirt1.jpg",
+      "title": "shirt",
+      "description": "sheap clothes",
+      "kind": ["X"],
+      "price": 29.9
+    },
+    {
+      "_id": "shirt2",
+      "image": "/images/shirt2.jpg",
+      "title": "shirt",
+      "description": "sheap clothes",
+      "kind": ["X"],
+      "price": 18.9
+    },
+    {
+      "_id": "shirt3",
+      "image": "/images/shirt3.jpg",
+      "title": "shirt",
+      "description": "sheap clothes",
+      "kind": ["X"],
+      "price": 14.9
+    },
+    {
+      "_id": "shoes1",
+      "image": "/images/shoes1.jpg",
+      "title": "shoes",
+      "description": "sheap clothes",
+      "kind": ["XL"],
+      "price": 25.9
+    },
+    {
+      "_id": "shoes2",
+      "image": "/images/shoes2.jpg",
+      "title": "shoes",
+      "description": "sheap clothes",
+      "kind": [ "XL"],
+      "price": 10.9
+    },
+    {
+      "_id": "shoes3",
+      "image": "/images/shoes3.jpg",
+      "title": "shoes",
+      "description": "sheap clothes",
+      "kind": ["XL"],
+      "price": 49.9
+    }
+  ]
+}
